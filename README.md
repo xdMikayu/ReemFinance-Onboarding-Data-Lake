@@ -39,10 +39,7 @@ ISIT312-CreditCard-Onboarding/
 │   ├── ISIT312 Project Report.pdf
 │   └── ISIT312 Presentation.pdf
 │
-├── scripts/                 # (Optional) Add your ETL Python scripts here
-│
 ├── README.md                # Project overview and usage
-└── .gitignore               # Ignore temporary/system files
 ```
 
 ---
@@ -55,15 +52,6 @@ The Power BI dashboards showcase:
 - Seasonal transaction patterns
 - Reward points analysis
 - Spending patterns by income and merchant type
-
-> 🔗 _Due to size limits, the full `.pbix` dashboard and `.h5` models can be accessed via [Google Drive](https://drive.google.com/drive/folders/1bK8mriK1w9v2ArJbLFxrfQPQL9XRFLEK?usp=sharing)._
-
----
-
-## 🎥 Demo Video
-
-Watch the walkthrough demo on YouTube:  
-📺 [https://youtu.be/qn3jjj9sXQY](https://youtu.be/qn3jjj9sXQY)
 
 ---
 
