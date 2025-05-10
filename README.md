@@ -27,7 +27,7 @@ Reem Finance, a financial services provider in the UAE, needed a data infrastruc
 ## 🗂️ Project Structure
 
 ```
-ISIT312-CreditCard-Onboarding/
+ReemFinance-Onboarding-Data-Lake/
 ├── data/                    # JSON and Excel files used for processing
 │   ├── customer_behavioral_data.json
 │   ├── complementary_payment_details.json
@@ -35,11 +35,9 @@ ISIT312-CreditCard-Onboarding/
 │   ├── complementary_transaction_details.json
 │   └── Reem_Finance_Sample_Credit_Card_Data.xlsx
 │
-├── docs/                    # Final report and slides
-│   ├── ISIT312 Project Report.pdf
-│   └── ISIT312 Presentation.pdf
-│
-├── README.md                # Project overview and usage
+├── Report.pdf
+├── Presentation.pdf
+└── README.md                # Project overview and usage
 ```
 
 ---
